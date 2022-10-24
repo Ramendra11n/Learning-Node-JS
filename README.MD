@@ -4,7 +4,7 @@
 
 
 
-This is the repository that is used to learn the Node JS and Express JS using only code and comment are made in order to understand the code of the files 
+This is the repository that is used to learn the Node JS and Express JS using only code. Comment are made in order to understand the code of the javascript files. 
 
 #### Contents
 
